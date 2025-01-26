@@ -20,6 +20,7 @@
 │ ├──── postgres/ # Tasks postgres
 │ └──── redis/ # Redis tasks
 └──── deploy # Main script
+```
 
 ## Main components
 
@@ -212,6 +213,7 @@ Review with Claude 3.5
 │   ├── postgres/      # Задачи postgres
 │   └── redis/         # Задачи redis
 └── deploy             # Основной скрипт
+```
 
 ## Основные компоненты
 
